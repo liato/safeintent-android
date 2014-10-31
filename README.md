@@ -12,7 +12,7 @@ cd safeintent-android/host
 ./gradlew installRealRelease
 ```
 
-The real host is the app that our client wants to send an Intent to. The public key if the real app is known to the client beforehand.
+The real host is the app that our client wants to send an Intent to. The public key of the real app is known to the client beforehand.
 
 ####Install and run the client
 ```
